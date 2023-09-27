@@ -642,7 +642,7 @@ To work with a collection of DTOs, specify the collection type inside PHPDoc::
     {
         /**
          * @var AddressDto[]
-        /*
+         */
         public array $addressDtoCollection;
     }
 
